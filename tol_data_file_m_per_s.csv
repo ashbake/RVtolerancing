@@ -1,0 +1,57 @@
+#surface_name, surface_number, axis, nominal, val
+#0 1 2 3 4 5: Z X Y TX TY TZ
+Fiber Piston (Z),1,0,0.00,0
+Fiber Decenter (X),1,1,0.00,2.2
+Fiber Decenter (Y),1,2,0.00,2.3
+Fiber Tilt (TX),-1,3,0.00,0
+Fiber Tilt (TY),-1,4,0.00,0
+Fiber Clocking (TZ),9,5,0.00,0
+COLL M1 Piston (Z),7,0,0.00,6.6
+COLL M1 Decenter (X),6,1,0.00,1.2
+COLL M1 Decenter (Y),6,2,0.00,1
+COLL M1 Tilt (TX),6,3,0.00,15.4
+COLL M1 Tilt (TY),6,4,0.00,18.7
+COLL M1 Clocking (TZ),6,5,0.00,131.2
+COLL M2 Piston (Z),13,0,0.00,2.5
+COLL M2 Decenter (X),12,1,0.00,291.9
+COLL M2 Decenter (Y),12,2,0.00,39.1
+COLL M2 Tilt (TX),12,3,0.00,664
+COLL M2 Tilt (TY),12,4,0.00,5888.4
+COLL M2 Clocking (TZ),12,5,0.00,0
+COLL M3 Piston (Z),19,0,0.00,3.7
+COLL M3 Decenter (X),18,1,0.00,2.2
+COLL M3 Decenter (Y),18,2,0.00,2
+COLL M3 Tilt (TX),18,3,0.00,14.2
+COLL M3 Tilt (TY),18,4,0.00,19.5
+COLL M3 Clocking (TZ),18,5,0.00,65.1
+ECHELLE Tilt (TX),27,3,0,18.9
+ECHELLE Tilt (TY),27,4,3.5,15.1
+ECHELLE Clocking (TZ),27,5,5.0,772.7
+PRISM Tilt (TX),32,3,0.00,142.3
+PRISM Tilt (TY),32,4,0,46.7
+FOLD Tilt (TX),37,3,45,19.4
+FOLD Tilt (TY),37,4,0.00,27.3
+CAM M1 Piston (Z),46,0,0.00,14.6
+CAM M1 Decenter (X),45,1,0.00,7.9
+CAM M1 Decenter (Y),45,2,0.00,9.5
+CAM M1 Tilt (TX),45,3,0.00,19.4
+CAM M1 Tilt (TY),45,4,0.00,21.2
+CAM M1 Clocking (TZ),45,5,0.00,65.6
+CAM M2 Piston (Z),52,0,0.00,11.9
+CAM M2 Decenter (X),51,1,0.00,18.3
+CAM M2 Decenter (Y),51,2,0.00,28.3
+CAM M2 Tilt (TX),51,3,0.00,85.7
+CAM M2 Tilt (TY),51,4,0.00,99.2
+CAM M2 Clocking (TZ),51,5,0.00,531.4
+CAM M3 Piston (Z),58,0,0.00,44.3
+CAM M3 Decenter (X),57,1,0.00,8.4
+CAM M3 Decenter (Y),57,2,0.00,8.5
+CAM M3 Tilt (TX),57,3,0.00,26.3
+CAM M3 Tilt (TY),57,4,0.00,26.6
+CAM M3 Clocking (TZ),57,5,0.00,224.2
+DETECTOR Piston (Z),64,0,0.00,112.7
+DETECTOR Decenter (X),63,1,0.00,21.2
+DETECTOR Decenter (Y),63,2,0.00,21.2
+DETECTOR Tilt (TX),63,3,0.00,4487.6
+DETECTOR Tilt (TY),63,4,0.00,5223.4
+DETECTOR Clocking (TZ),63,5,0.00,682
